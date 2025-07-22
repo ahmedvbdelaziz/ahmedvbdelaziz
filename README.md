@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ahmed Mohamed Abdelaziz</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
+- 💬 Ask me about **React**
+
 - 📫 How to reach me **ahmedabdelazzizz27@gmail.com**
 
 - ⚡ Fun fact **I enjoy turning boring UIs into fast, clean, and enjoyable experiences — and I break things just to rebuild them better.**
